@@ -6,6 +6,9 @@ showemail: 0
 role: SHyR Lab Manager
 pic: Rosa.jpg
 seq: 2
+afil1:
+afil2:
+afil3:
 ---
 
 ## Roles and responsibilities

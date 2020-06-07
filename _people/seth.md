@@ -6,4 +6,7 @@ showemail: 1
 role: "MES students: hydraulic properties of frozen soils"
 pic: Seth.jpg
 seq: 5
+afil1:
+afil2:
+afil3:
 ---
