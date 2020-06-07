@@ -25,7 +25,7 @@ If you prefer MATLAB you can try [this model](https://github.com/amireson/Transi
 This script is written in jupyter notebook, using python version 3.6
 
 <img src="{{site.baseurl}}/files/images/Map.png" alt='map' style='width: 30%'>
-<img src="{{site.baseurl}}/files/images/Precip.png" alt='map' style='width: 65%'>
+<img src="{{site.baseurl}}/files/images/Precip.png" alt='precip' style='width: 65%'>
 
 <br>
 <br>

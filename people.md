@@ -17,7 +17,7 @@ title: People
 <br>
 </div>
 <div class="people">
-<img src="{{site.baseurl}}/files/images/{{p.pic}}" alt={{p.name}} width=300pt style="float: right;">
+<img src="{{site.baseurl}}/files/images/{{p.pic}}" alt="{{p.name}}" width=300pt style="float: right;">
 </div>
 </div>
 
