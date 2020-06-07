@@ -1,6 +1,7 @@
 ---
 layout: home
 title: People
+seq: 2  
 ---
 
 {% assign sortedpeople = site.people | sort: 'seq' %}
