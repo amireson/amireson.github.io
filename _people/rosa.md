@@ -4,7 +4,7 @@ name: Rosa Brannen
 email: rosa.brannen@usask.ca
 showemail: 0
 role: SHyR Lab Manager
-pic: rosa.jpg
+pic: Rosa.jpg
 seq: 2
 ---
 
