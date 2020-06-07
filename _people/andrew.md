@@ -7,7 +7,7 @@ role: Associate professor, <a href="https://sens.usask.ca">SENS</a>
 pic: MyPicture.jpg
 seq: 1
 afil1: Director of the <a href="http://sens.usask.ca">MWS</a> program
-afil2: President of the <a href="https://cgu-ugc.ca/sections/hydrology/">CGU-HS</a>)
+afil2: President of the <a href="https://cgu-ugc.ca/sections/hydrology/">CGU-HS</a>
 afil3: Joint appointment <a href="https://engineering.usask.ca/departments/cgee.php">CGE</a>
 ---
 ## Research Interests
