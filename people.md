@@ -2,7 +2,9 @@
 layout: home
 title: People
 ---
-{% for p in site.people %}
+
+{% assign sortedpeople = site.people | sort: 'seq' %}
+{% for p in sortedpeople %}
 <hr>
 <div class="row">
 <div class="people">

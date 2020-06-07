@@ -58,7 +58,6 @@ collections:
   people:
     output: true
     permalink: /:collection/:path
-    sort_by: seq
     
 defaults:
   - 
