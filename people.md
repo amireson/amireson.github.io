@@ -9,10 +9,10 @@ title: People
 <div class="row">
 <div class="people">
 <h1>{{p.name}}</h1>
-{{p.role}}<br>
 {% if p.showemail == 1 %}
 <a class="u-email" href="mailto:{{ p.email }}">{{ p.email }}</a><br>
 {% endif %}
+{{p.role}}<br>
 {{p.afil1}} <br>
 {{p.afil2}} <br>
 {{p.afil3}} 
