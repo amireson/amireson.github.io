@@ -13,6 +13,9 @@ title: People
 {% if p.showemail == 1 %}
 <a class="u-email" href="mailto:{{ p.email }}">{{ p.email }}</a><br>
 {% endif %}
+{{p.afil1}} <br>
+{{p.afil2}} <br>
+{{p.afil3}} 
 </div>
 <div class="people">
 {{p.content | markdownify}}
