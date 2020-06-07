@@ -20,7 +20,7 @@ title: People
 <img src="/files/images/MyPicture.png" alt="bob" width=300pt style="float: right;" >
   <h2>What</h2>
   <p> Do you make of this? Seems odd </p>
-  <img src="{{site.baseurl}}/files/images/{{p.pic}}" alt="{{p.name}}" width=300pt style="float: right;">
+  <img src="{{site.baseurl}}/files/images/{{p.pic}}" alt="{{p.name}}" width=300pt>
 </div>
 </div>
 
