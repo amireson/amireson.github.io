@@ -5,7 +5,7 @@ seq: 5
 ---
 
 <hr>
-## PhD Positions: Hydrology-Carbon interactions in thawing Permafrost
+## Two PhD Positions: Hydrology-Carbon interactions in thawing Permafrost
 
 The <a href="http://water.usask.ca">Global Institute for Water Security</a> is working with <a href="https://www.canada.ca/en/environment-climate-change.html">Environment and Climate Change Canada</a> to develop tools for assessing water quality and climate impacts on prairie and northern rivers. Under this project, we are seeking two PhD students to work on Climate Change impacts on permafrost in the North West Territories. 
 
@@ -32,3 +32,5 @@ The other project will focus primarily on the carbon processes. This project wil
 </p>
 
 Each PhD is fully funded and available immediately. The students will be based in Saskatoon within the Global Institute for Water Security, the leading center for water resources research in Canada. Portions of the work will be carried out at Baker Creek. There can be options to work remotely for parts of the program when coursework has been completed, and when not in the field. The students will be members of Dr Ireson's and Dr Whitfield's lab groups, and engage with other students working in these groups. The students will also work closely with Environment and Climate Change Canada, and gain experience of research work within that organization. There will be opportunities to attend national and international conferences, and students will be mentored to publish their work in high impact journals. We are dedicated to equity, diversity and inclusion and will seek out individuals that will enrich our work and mutual learning environment.
+
+If you are interested, please contact Andrew (<a href="mailto:andrew.ireson@usask.ca">andrew.ireson@usask.ca</a>). The positions will remain open until filled.
