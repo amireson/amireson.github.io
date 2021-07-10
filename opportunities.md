@@ -23,7 +23,7 @@ The projects will be based at <a href="https://goo.gl/maps/X8VHa3SMoNxKwJNa7">Ba
 <img src="{{site.baseurl}}/files/images/Ad/ConceptualPermafrostThaw.svg" alt="Conceptual diagran" width="700pt">
 </p>
 
-The other project will focus primarily on the carbon processes. This project will be supervised by Colin Whitfield and Chris Spence. In this project, field work will be undertaken to quantify the stores and fluxes of carbon in the soils, groundwater, wetlands and streams. This project will study the mechanisms of carbon transport and how these are coupled to the hydrological processes. The student that undertakes this project will have an excellent background in biogeochemisty, a good understanding of hydrology and will have, or develop, excellent computational skills.
+The other project will focus primarily on the carbon processes. This project will be supervised by Colin Whitfield and Chris Spence. In this project, field work will be undertaken to quantify the stores and fluxes of carbon in the soils, groundwater, wetlands and streams. This project will study the mechanisms of carbon transport and how these are coupled to the hydrological processes. The student that undertakes this project will have an excellent background in biogeochemisty, a good understanding of hydrology, prior experience conducting fieldwork (ideally in remote environments) and will have, or develop, excellent computational skills.
 
 <p style="text-align:center">
 <img src="{{site.baseurl}}/files/images/Ad/landing.jpg" alt="photo" width="250pt">
