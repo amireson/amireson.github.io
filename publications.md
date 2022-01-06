@@ -22,7 +22,7 @@ seq: 3
 <tr><td>
 <a href="https://doi.org/{{p.doi}}" style="color: #3f3f3f;">
 {{ p.authors }} ({{p.year}})
-{{ p.title }} {{p.journal}}, {{p.vol}} <span style="color: #2a7ae2;">doi: {{p.doi}}]</span></a>
+{{ p.title }} {{p.journal}}, {{p.vol}} <span style="color: #2a7ae2;">doi: {{p.doi}}</span></a>
 </td></tr>
 {% endif %}
 {% endfor %}
@@ -41,7 +41,7 @@ seq: 3
 <tr><td>
 <a href="https://doi.org/{{p.doi}}" style="color: #3f3f3f;">
 {{ p.authors }} ({{p.year}}) {{p.title}}
-{{ p.title }} {{p.journal}}, {{p.vol}}  <span style="color: #2a7ae2;">doi: {{p.doi}}]</span></a>
+{{ p.title }} {{p.journal}}, {{p.vol}}  <span style="color: #2a7ae2;">doi: {{p.doi}}</span></a>
 </td></tr>
 {% endif %}
 {% endfor %}
