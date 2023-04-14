@@ -6,3 +6,4 @@ journal: Journal of Hydrometeorology
 vol: 22(6), 1627-1648
 doi: 10.1175/JHM-D-20-0175.1
 ---
+note: I helped with some of the ideas in this paper and carefully reviewed the equations and text. 

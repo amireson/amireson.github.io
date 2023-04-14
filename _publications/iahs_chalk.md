@@ -1,5 +1,3 @@
-# Ignore
-
 ---
 authors: Ireson, A. M., Butler, A. P. and Gallagher, A.
 year: 2009

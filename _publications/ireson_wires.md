@@ -6,3 +6,4 @@ journal: Wires Water
 vol:  
 doi: 10.1002/wat2.1098
 ---
+note: This was an interdisciplinary review paper, that I coordinated as lead author. The scope of the paper included groundwater, hydrology, ecology.

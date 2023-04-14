@@ -6,3 +6,4 @@ journal: Canadian Water Resources Journal / Revue Canadienne Des Ressources Hydr
 vol: 0(0), 1–13.
 doi: 10.1080/07011784.2021.1973911
 ---
+note: I made a small contribution to this large multi-author paper (5% contribution to the overall paper).

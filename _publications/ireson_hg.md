@@ -6,3 +6,4 @@ journal: Hydrogeological Journal
 vol: 21(1), 53-66
 doi: 10.1007/s10040-012-0916-5
 ---
+note: I led this review paper. I wrote most of the text, and edited the paper.

@@ -6,3 +6,4 @@ journal: Hydrological Processes
 vol: e14557
 doi: 10.1002/hyp.14557
 ---
+note: I contributed a section of text for this large multi-author paper (5% contribution to the overall paper).
