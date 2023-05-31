@@ -3,7 +3,7 @@ layout: home
 name: Morgan Braaten
 email: morgan.braaten@usask.ca
 showemail: 1    
-role: "MES student: Quantifying soil moisture using geolysimeters"
+role: "Graduated MES student: Quantifying soil moisture using geolysimeters"
 pic: Morgan.jpg
 seq: 5
 afil1:

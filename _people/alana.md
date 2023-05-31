@@ -1,10 +1,10 @@
 ---
 layout: home
 name: Alana Muenchrath 
-email:  alana.muenchrath@gmail.com
+email: alana.muenchrath@usask.ca
 showemail: 1    
 role: "PhD student: Modelling permafrost thaw"
-pic: 
+pic: "Alana.jpg"
 seq: 7
 afil1:
 afil2:
@@ -13,4 +13,5 @@ afil3:
 
 ## PhD Research
 
-Alana's PhD research is based at Baker Creek, located on treaty 11 territory, and focuses on quantfying hydrological processes associated with thawing permafrost, using combined field observations and mdoelling. Under a warming climate, as permafrost thaws, the subsurface flow pathways are expected to change. Thawing will lead to thickening of the active layer, the expansion of taliks and enhanced groundwater discharge and export of dissolved carbon from uplands into wetlands and streams.
+Alana’s PhD research focuses on understanding how water movement and soil moisture heterogeneity across a hillslope influences active layer thaw and permafrost degradation. Her work is based on field investigations from Baker Creek, NWT where soil moisture, ground temperatures and hydrological fluxes are monitored. This work aims to improve our understanding of the mechanisms of permafrost thaw in diverse landscapes to assist in model predictions of future hydrological and biogeochemical processes.
+

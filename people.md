@@ -8,7 +8,7 @@ seq: 2
 {% for p in sortedpeople %}
 <hr>
 <div class="row">
-<div class="people">
+<div class="people" >
 <h1>{{p.name}}</h1>
 {% if p.showemail == 1 %}
 <a class="u-email" href="mailto:{{ p.email }}">{{ p.email }}</a><br>
