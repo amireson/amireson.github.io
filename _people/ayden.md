@@ -4,7 +4,7 @@ name: Ayden Draude
 email: amd932@mail.usask.ca
 showemail: 1    
 role: "MES student: Soil-wetland salinization in the prairies"
-pic: "ayden.jpg"
+pic: "Ayden.jpg"
 seq: 6
 afil1:
 afil2:
