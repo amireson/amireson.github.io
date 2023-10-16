@@ -18,7 +18,7 @@ A simple, efficient, mass conservative approach to solving Richard's Equation (o
 
 1. **A model for field-scale root zone soil mositure**, that can be used to simulate climate change impacts of crop yield in the Canadian prairies. We will be developing a new, simple, modular soil moisture model that incorporates crop growth. The model will include critical prairie hydrological processes, including snowmelt infiltration that is critical to recharge soil moisture.
 
-2. **A model for thawing permafrost in the Canadian shield**, that simulated fully coupled flow and heat transport in two dimensions, and can be used to test hypotheses about the controls on permafrost thaw and hydrological pathways. The candidate must be able to understand the thermodynamics of freezing soils. 
+2. **A model for thawing permafrost in the Canadian shield**, that simulates fully coupled flow and heat transport in two dimensions, and can be used to test hypotheses about the controls on permafrost thaw and associated development of hydrological pathways. The candidate must be able to understand the thermodynamics of freezing soils. This work will be collaborative with a team of researchers conducting field work in the Northwest Territories, and may also work on development of the <a href="https://github.com/CH-Earth/summa">SUMMA model</a>.
 
 ## Masters in Water Security
 
