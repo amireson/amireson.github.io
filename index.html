@@ -9,12 +9,10 @@ seq: 1
   margin-right: auto;
   width: 100%;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .mySlides {
   width: 100%;
-  height: 50vw;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
@@ -68,6 +66,18 @@ seq: 1
   }
 }
 
+.column {
+  float: left;
+  width: 48%;
+  margin-left: 2%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 </style>
 
@@ -75,10 +85,13 @@ seq: 1
 
     <p style="text-align: justify">The SHyR group conducts research focusing on the understanding and management of freshwater, with a particular focus on water underneath the ground. This includes water held in the soil, which is essential for plants, and groundwater in aquifers, which can be an important resource for humans. Water that moves through the soil, unsaturated zone and saturated zone can constitute an important part of the hydrological cycle, and can be an important transmission pathway for contaminants.</p>
 
-    <img src="{{site.baseurl}}/files/slideShow/Pic05.JPG">
+<div class="row">
+  <div class="column"> 
 
 
-<!--
+
+      <!-- <img src="{{site.baseurl}}/files/slideShow/Pic05.JPG">a -->
+
 {% for image in site.static_files %}
     {% if image.path contains 'slideShow' %}
         <img class="mySlides" src="{{ site.baseurl }}{{ image.path }}"/>
@@ -102,9 +115,19 @@ function carousel() {
 }
 </script>
 
--->
+
+  </div>
+  <div class="column"> 
 
     <p style="text-align: justify">We work on combining field observations with models to conceptualise and quantify the processes that determine the storage and movement of water and contaminants in the subsurface environment. This is a challenging problem because the properties of the system are heterogeneous; processes are often highly non-linear; we can only make very limited observations; and fluxes of water through the system are continually changing, driven by the hydrological cycle. We are therefore dealing with very high degrees of uncertainty, much of which is irreducible. Fundamental insights into system behaviour come from observations. Models are treated as working hypotheses, from which we can learn something about the processes, and test our understanding. Model failure is the norm, but we can learn from these failures. To a more limited extent, when models cannot be falsified, we may be able to make some predictions about how the system will respond to future change.</p>
+
+
+  </div>
+</div>
+
+
+
+
 
     <p>Find out more about members of the group <a href="{{site.baseurl}}/people">here</a></p>
 <hr>
