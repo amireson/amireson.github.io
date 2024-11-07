@@ -7,11 +7,11 @@ seq: 4
 <hr>
 ## Richards Equation Solvers
 
-Richards' Equation describes the movement of water through the soil and the unsaturated zone. It is often applied to simulate the vertical exchange of moisture between the land and atmosphere. If you are new to python, you might like to have a look at [this](https://github.com/amireson/RichardsEquation) 1D Richards' Equation solver written in python for teaching purposes. Some explanation is given in the video below
+Richards' Equation describes the movement of water through the soil and the unsaturated zone. It is often applied to simulate the vertical exchange of moisture between the land and atmosphere. If you are new to python, you might like to have a look at [this](https://openre.render.com) web hosted 1D Richards' Equation solver written in python for teaching purposes. Please note, this tool is a little slow - it will run much faster on a laptop/desktop computer. Some explanation is given in the video below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nNYO9XL6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you are comfortable with python and know about makefiles, [here](https://github.com/amireson/RichardsEquation_improved) is an improved 1D Richards' Equation solver. This uses the numba JIT compiler, and as such is significantly faster.
+If you are comfortable with python and know about makefiles, [here](https://github.com/amireson/openRE) is an improved 1D Richards' Equation solver. This uses the numba JIT compiler, and as such is significantly faster.
 
 If you prefer MATLAB you can try [this model](https://github.com/amireson/TransientUZFlow). Note, in my experience python ODE solvers, such as those used to solve Richards' equation, can be simply configured to run 5-10 times faster than those in MATLAB, so if you're starting out, I would recommend python.
 
