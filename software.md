@@ -7,7 +7,7 @@ seq: 4
 <hr>
 ## Richards Equation Solvers
 
-Richards' Equation describes the movement of water through the soil and the unsaturated zone. It is often applied to simulate the vertical exchange of moisture between the land and atmosphere. If you are new to python, you might like to have a look at [this](https://openre.render.com) web hosted 1D Richards' Equation solver written in python for teaching purposes. Please note, this tool is a little slow - it will run much faster on a laptop/desktop computer. Some explanation is given in the video below
+Richards' Equation describes the movement of water through the soil and the unsaturated zone. It is often applied to simulate the vertical exchange of moisture between the land and atmosphere. If you are new to python, you might like to have a look at [this](https://openre.onrender.com) web hosted 1D Richards' Equation solver written in python for teaching purposes. Please note, this tool is a little slow - it will run much faster on a laptop/desktop computer. Some explanation is given in the video below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nNYO9XL6wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
