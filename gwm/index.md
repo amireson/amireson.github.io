@@ -1,8 +1,7 @@
 ---
 layout: post
+hidden: true
 ---
-
-## Groundwater modelling primer
 
 An informal course to introduce the basics of groundwater modelling. 
 

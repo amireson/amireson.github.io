@@ -1,8 +1,9 @@
 ---
 layout: post
+hidden: true
 ---
 
-## [Groundwater modelling primer](index)
+## [GWMP home](index)
 
 ### Steady-state flow in 1D aquifers
 

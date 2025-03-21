@@ -1,8 +1,9 @@
 ---
 layout: post
+hidden: true
 ---
 
-## [Groundwater modelling primer](index)
+## [GWMP home](index)
 
 ### Introduction to groundwater
 
