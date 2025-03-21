@@ -3,7 +3,7 @@ layout: post
 hidden: true
 ---
 
-## [GWMP home](index)
+### [GWMP home](index)
 
 ### Introduction to groundwater
 

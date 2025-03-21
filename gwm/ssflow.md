@@ -3,7 +3,7 @@ layout: post
 hidden: true
 ---
 
-## [GWMP home](index)
+### [GWMP home](index)
 
 ### Steady-state flow in 1D aquifers
 
