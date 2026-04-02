@@ -6,4 +6,4 @@ journal: Permafrost and Periglacial Processes
 vol: - 
 doi: 10.1002/ppp.70036
 ---
-note: This work was conducted by my PhD under my close supervision. I led the writing.
+note: This work was conducted by my PhD student. I assisted with interpretation and analysis and editing.
