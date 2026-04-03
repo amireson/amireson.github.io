@@ -5,7 +5,7 @@ email: anukul.basnet@usask.ca
 showemail: 1    
 role: "M.Sc. in Civil Engineering student: Simulating crop yield and hydrological processes in the Prairies"
 pic: "anukul.jpg"
-seq: 6
+seq: 5
 afil1:
 afil2:
 afil3:

@@ -5,7 +5,7 @@ email: alana.muenchrath@usask.ca
 showemail: 1    
 role: "PhD student: Modelling permafrost thaw"
 pic: "Alana.jpg"
-seq: 7
+seq: 3
 afil1:
 afil2:
 afil3:

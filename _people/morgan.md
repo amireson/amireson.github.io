@@ -5,7 +5,7 @@ email: morgan.braaten@usask.ca
 showemail: 1    
 role: "Graduated MES student: Quantifying soil moisture using geolysimeters"
 pic: Morgan.jpg
-seq: 5
+seq: 7
 afil1:
 afil2:
 afil3:

@@ -5,7 +5,7 @@ email: amd932@mail.usask.ca
 showemail: 1    
 role: "MES student: Soil-wetland salinization in the prairies"
 pic: "Ayden.jpg"
-seq: 6
+seq: 8
 afil1:
 afil2:
 afil3:
