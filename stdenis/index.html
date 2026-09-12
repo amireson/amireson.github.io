@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#111111">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="St Denis Tour">
+  <title>St Denis Field Tour 2026</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="viewer" aria-label="St Denis field trip guide">
+    <img id="slide" alt="Field trip slide" draggable="false">
+    <div id="pageIndicator" aria-live="polite">1 / 18</div>
+    <button id="installBtn" hidden>Install</button>
+    <div id="help" class="show">
+      <div>Tap left/right or swipe to change page</div>
+      <div>Pinch to zoom • drag to pan • double-tap to reset</div>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
