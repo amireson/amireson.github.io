@@ -5,7 +5,7 @@ const installBtn = document.getElementById('installBtn');
 const help = document.getElementById('help');
 
 const slideCount = 18;
-const slidePath = n => `slides/page-${String(n).padStart(2,'0')}.png`;
+const slidePath = n => `slides/Slide${String(n)}.png`;
 let index = 1;
 let scale = 1;
 let tx = 0;
