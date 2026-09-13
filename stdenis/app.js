@@ -194,7 +194,12 @@ installBtn.addEventListener('click', async e => {
 window.addEventListener('appinstalled', () => { installBtn.hidden = true; });
 
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => navigator.serviceWorker.register('./service-worker.js'));
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./service-worker.js')
+            .then(registration => {
+                registration.update();
+            });
+    });
 }
 
 showSlide(1);
