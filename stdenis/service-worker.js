@@ -2,7 +2,7 @@ const CACHE = 'st-denis-tour-v1';
 const ASSETS = [
   './', './index.html', './style.css', './app.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png',
-  ...Array.from({length:18}, (_,i) => `./slides/page-${String(i+1).padStart(2,'0')}.png`)
+  ...Array.from({length:18}, (_,i) => `./slides/Slide${String(i+1)}.png`)
 ];
 
 self.addEventListener('install', event => {
