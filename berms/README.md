@@ -1,4 +1,4 @@
-# St Denis Field Tour PWA
+# BERMS Field Tour PWA
 
 This folder is a complete offline-capable Progressive Web App made from the 18-page phone PDF.
 

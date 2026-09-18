@@ -1,6 +1,6 @@
 {
-  "name": "St Denis Field Tour 2026",
-  "short_name": "St Denis Tour",
+  "name": "BERMS Field Tour 2026",
+  "short_name": "BERMS Tour",
   "description": "Offline field guide for the St Denis National Wildlife Area tour.",
   "start_url": "./index.html",
   "scope": "./",
