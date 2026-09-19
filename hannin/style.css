@@ -1,0 +1,88 @@
+:root {
+  color-scheme: dark;
+  background: #000;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #000;
+  overscroll-behavior: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+body { position: fixed; inset: 0; }
+#viewer {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  background: #000;
+  touch-action: none;
+  user-select: none;
+}
+#slide {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform-origin: center center;
+  transform: translate(-50%, -50%) translate(0px, 0px) scale(1);
+  will-change: transform;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+#pageIndicator {
+  position: fixed;
+  left: 50%;
+  bottom: max(10px, env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: rgba(0,0,0,.55);
+  color: rgba(255,255,255,.92);
+  font-size: 12px;
+  line-height: 1;
+  z-index: 10;
+  pointer-events: none;
+  backdrop-filter: blur(6px);
+}
+#installBtn {
+  position: fixed;
+  top: max(10px, env(safe-area-inset-top));
+  right: max(10px, env(safe-area-inset-right));
+  z-index: 20;
+  border: 0;
+  border-radius: 999px;
+  padding: 9px 13px;
+  font: inherit;
+  font-size: 14px;
+  background: rgba(0,0,0,.65);
+  color: #fff;
+  backdrop-filter: blur(6px);
+}
+#help {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 30;
+  width: min(88vw, 420px);
+  padding: 14px 18px;
+  border-radius: 14px;
+  text-align: center;
+  background: rgba(0,0,0,.72);
+  color: white;
+  font-size: 14px;
+  line-height: 1.55;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .35s ease;
+  backdrop-filter: blur(8px);
+}
+#help.show { opacity: 1; }
+@media (display-mode: standalone) {
+  #installBtn { display: none !important; }
+}
