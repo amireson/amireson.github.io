@@ -4,7 +4,7 @@ const indicator = document.getElementById('pageIndicator');
 const installBtn = document.getElementById('installBtn');
 const help = document.getElementById('help');
 
-const slideCount = 14;
+const slideCount = 28;
 const slidePath = n => `slides/Slide${String(n)}.png`;
 let index = 1;
 let scale = 1;

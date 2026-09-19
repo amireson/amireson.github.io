@@ -1,8 +1,8 @@
-const CACHE = 'hannin-tour-v1';
+const CACHE = 'hannin-tour-v2';
 const ASSETS = [
   './', './index.html', './style.css', './app.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png',
-  ...Array.from({length:14}, (_,i) => `./slides/Slide${String(i+1)}.png`)
+  ...Array.from({length:28}, (_,i) => `./slides/Slide${String(i+1)}.png`)
 ];
 
 self.addEventListener('install', event => {
