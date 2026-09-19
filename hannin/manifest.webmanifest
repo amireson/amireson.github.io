@@ -1,7 +1,7 @@
 {
-  "name": "BERMS Field Tour 2026",
-  "short_name": "BERMS Tour",
-  "description": "Offline field guide for the St Denis National Wildlife Area tour.",
+  "name": "Hannin Field Tour 2026",
+  "short_name": "Hannin Tour",
+  "description": "Offline field guide for the Hannin Creek field tour.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
